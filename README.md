@@ -12,6 +12,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 ## Image 1: A Japanese garden with flowers.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6464f87d-c93f-4b41-abc3-90705763a831" />
 
 
 
@@ -54,6 +55,9 @@ The generated image successfully reproduced the main characteristics of the Japa
 
 ## Image 2: A cup of coffee in a café.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/cb1e09a2-b201-4533-bb13-1805504f9a54" />
+
+
 ## 1. Analysis of the Given Image
 
 The image represents a warm and cozy café setting featuring a freshly prepared cup of coffee.
@@ -92,5 +96,49 @@ The generated image successfully reproduced the main characteristics of the cozy
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
+## Comparison Report
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+| **Feature** | **Image 1: Japanese Garden with Flowers** | **Image 2: A Cup of Coffee in a Café** |
+|---|---|---|
+| **Main Subject** | Japanese garden with colorful flowers | Cup of coffee in a cozy café |
+| **Lighting** | Soft natural sunlight | Warm natural and café lighting |
+| **Main Colors** | Green, pink, red, white, purple and orange | Brown, cream, beige, white and warm orange |
+| **Background** | Trees, pond, rocks and traditional garden elements | Café furniture, plants, shelves and decorations |
+| **Environment** | Natural and peaceful outdoor setting | Cozy and relaxing indoor setting |
+| **Style** | Realistic cinematic Japanese garden photography | Realistic cinematic café photography |
+| **Important Detail** | Colorful flowers and traditional Japanese elements | Coffee foam and wooden table |
+| **Mood** | Peaceful, serene and harmonious | Warm, relaxing and inviting |
+| **Prompt Refinement** | Added flowers, pond, rocks, lanterns, trees and traditional elements | Added coffee foam, saucer, spoon, wooden table, plants and warm lighting |
+
+## Prompt Refinement Process
+
+The prompts were developed progressively:
+
+Step 1 – Basic description: A simple description of the main subject was created for each image.
+
+Step 2 – Add visual details: Colors, objects, background elements and lighting were added to make the prompts more descriptive.
+
+Step 3 – Add composition: The arrangement of important elements was described, such as flowers and the pond in the Japanese garden and the coffee cup in the foreground of the café.
+
+Step 4 – Add style: Realistic cinematic photography was used for both images, with a Japanese garden style for the first image and cozy café photography for the second.
+
+Step 5 – Final refinement: Textures, atmosphere, lighting, depth of field and smaller environmental details were added to improve realism and visual quality.
+
+## Result
+
+Two images were successfully generated using text-to-image prompting:
+
+Japanese Garden with Flowers
+A Cup of Coffee in a Café
+
+The generated images captured the major visual characteristics of their respective concepts. The Japanese garden image represented colorful flowers, greenery, natural elements and a peaceful atmosphere, while the coffee image represented a warm café environment with a prominently placed cup of coffee.
+
+Detailed prompts produced better results than simple prompts because they provided information about the subjects, colors, lighting, composition, textures, environment and artistic style.
+
+## Conclusion
+
+The experiment demonstrates that text-to-image generation tools can create visually realistic images from carefully designed text prompts. Starting with a simple description and progressively adding details about objects, colors, lighting, composition and style improved the quality of both generated images.
+
+The Japanese garden with flowers prompt benefited from details such as colorful flowers, greenery, rocks, ponds and traditional Japanese elements. The cup of coffee in a café prompt was improved by adding coffee foam, a wooden table, warm lighting, plants and background blur.
+
+Overall, the experiment shows that prompt refinement and iteration are important for generating detailed, realistic and visually appealing images that closely represent the intended concept.
